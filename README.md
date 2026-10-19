@@ -1,4 +1,4 @@
-# 💧 Aqua Control — Smart Water Delivery & Plant Operations SaaS
+# 💧 Aqua Control — Smart Water Delivery & Plant Operations 
 
 > A modern, full-stack B2B/B2C Water Jar Delivery & Operations Management Platform featuring QR/OTP delivery verification, advance token quota passes, walk-in plant sales, dynamic RBAC permission controls, and real-time revenue reconciliation.
 
